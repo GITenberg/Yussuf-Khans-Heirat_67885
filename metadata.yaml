@@ -1,0 +1,44 @@
+_repo: Yussuf-Khans-Heirat_67885
+_version: 0.0.1
+alternative_title: Yussuf Khans giftermål. German
+contributor:
+  translator:
+    agent_name: Franzos, Marie
+    alias: Franzos, Mizi
+    birthdate: 1870
+    deathdate: 1941
+    gutenberg_agent_id: '9157'
+    url: http://www.gutenberg.org/2009/agents/9157
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Marie_Franzos
+    - http://www.gutenberg.org/ebooks/author/49611
+creator:
+  author:
+    agent_name: Heller, Frank
+    alias: Serner, Gunnar
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '4398'
+    url: http://www.gutenberg.org/2009/agents/4398
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Frank_Heller
+    - https://sv.wikipedia.org/wiki/Frank_Heller
+description: ''
+gutenberg_issued: '2022-04-20'
+identifiers:
+  gutenberg: '67885'
+language: de
+pgterms:marc905: 20180325000802heller
+pgterms:marc906: '1919'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Georg Müller,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into German'
+- !lcc 'PT'
+- GITenberg
+title: Yussuf Khans Heirat
+url: http://www.gutenberg.org/ebooks/67885
