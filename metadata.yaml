@@ -12,6 +12,9 @@ contributor:
     wikipedia:
     - https://sv.wikipedia.org/wiki/Marie_Franzos
     - http://www.gutenberg.org/ebooks/author/49611
+covers:
+- cover_type: archival
+  image_path: 67885-h/images/cover.jpg
 creator:
   author:
     agent_name: Heller, Frank
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Frank_Heller
     - https://sv.wikipedia.org/wiki/Frank_Heller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67885#Yussuf-Khans-Heirat
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67885'
